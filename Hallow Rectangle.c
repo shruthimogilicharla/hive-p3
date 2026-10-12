@@ -2,7 +2,6 @@ Hollow Rectangle
 Question
 
 Given two integers W and L, print a hollow rectangle pattern using *. The boundary of the rectangle should contain stars, while the inside should contain spaces.
-
 Input Format
 
 A single line containing two integers W and L, representing the width and length of the rectangle.
