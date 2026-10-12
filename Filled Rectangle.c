@@ -2,6 +2,7 @@ Filled Rectangle
 Question
 
 Given two integers N and M, print a filled rectangle pattern of size N × M using the * character.
+    
 Input Format
 
 The first line contains two integers, N and M, representing the number of rows and columns.
