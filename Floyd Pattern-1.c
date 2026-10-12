@@ -1,6 +1,7 @@
 Question: Floyd Pattern - 1
 
 Given an integer N, print a right-angled triangle pattern using consecutive integers, starting from 1.
+
 Input Format
 
 A single integer N, representing the number of rows.
