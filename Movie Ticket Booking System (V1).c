@@ -1,5 +1,5 @@
 Movie Ticket Booking System (V1)
-Question
+Question.
 
 Implement a movie ticket booking system for a theatre with N rows and M columns of seats. Initially, all seats are available. Each seat is identified by its row and column number using zero-based indexing.
 
