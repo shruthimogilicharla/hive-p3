@@ -1,5 +1,5 @@
 Palindromic Pattern
-Question
+Question.
 
 Given an integer N, print a palindromic right-angled triangle pattern using uppercase English letters. Each row contains letters in ascending order from A to the row's corresponding letter, followed by letters in descending order back to A.
 
