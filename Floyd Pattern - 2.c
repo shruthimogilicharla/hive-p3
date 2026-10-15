@@ -1,5 +1,5 @@
 Floyd Pattern - 2
-Question
+Question.
 
 Given an integer N, print a right-angled triangle pattern using integers. The numbers are arranged diagonally, with each row starting from the row number.
 
