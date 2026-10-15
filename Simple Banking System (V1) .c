@@ -1,5 +1,5 @@
 Simple Banking System (V1)
-Question
+Question.
 
 Implement a simple banking system that manages 50 accounts. Each account starts with an initial balance of 1000 INR. The system processes queries to deposit money, withdraw money, check account balances, transfer money between accounts, and calculate the average balance across all accounts.
 
