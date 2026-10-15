@@ -1,5 +1,5 @@
 Filled Rectangle
-Question
+Question.
 
 Given two integers N and M, print a filled rectangle pattern of size N × M using the * character.
     
