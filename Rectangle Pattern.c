@@ -1,5 +1,5 @@
 Rectangle Pattern
-Question
+Question.
 
 Given an integer N, print an N × N rectangle pattern using numbers and a * character. Each row contains numbers in descending order from N to 1, with the * replacing the number corresponding to the current row.
 
