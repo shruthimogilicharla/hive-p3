@@ -1,6 +1,6 @@
 Half Diamond with Numbers
 
-Question
+Question.
 Given an integer N, print a half-diamond pattern using numbers. The pattern increases from 1 to N and then decreases back to 1.
 
 Input Format
