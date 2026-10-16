@@ -1,4 +1,4 @@
-Question: Floyd Pattern - 1.
+Question: Floyd Pattern - 1
 
 Given an integer N, print a right-angled triangle pattern using consecutive integers, starting from 1.
 
