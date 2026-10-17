@@ -1,5 +1,5 @@
 Half Diamond
-Question.
+Question
 
 Given an integer N, print a half-diamond pattern using *. The pattern increases from 1 star to N stars and then decreases back to 1 star.
 
