@@ -1,5 +1,5 @@
 Pyramid Pattern
-Question.
+Question
 
 Given an integer N, print a pyramid pattern using *. The pyramid should contain N rows, with each row centered using spaces and containing an increasing number of stars.
 
