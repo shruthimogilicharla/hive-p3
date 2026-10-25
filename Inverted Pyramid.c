@@ -1,5 +1,5 @@
 Inverted Pyramid
-Question
+Question.
 
 Given an integer N, print a hollow half-inverted pyramid pattern using *. The first row contains N stars, and each subsequent row contains one fewer star. Only the boundary positions contain stars, while the interior positions contain spaces.
 
